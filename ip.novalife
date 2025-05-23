@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nova City – Info Serveur</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #00d8ff; /* même bleu clair */
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3em;
+      margin: 0.2em 0;
+    }
+    p {
+      font-size: 2em;
+      margin: 0.1em 0;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <h1>IP : 58.92.56.63</h1>
+  <p>Port : 458</p>
+</body>
+</html>
